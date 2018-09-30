@@ -20,17 +20,17 @@ android {
 }
 
 dependencies {
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    testCompile 'junit:junit:4.12'
-    compile files('libs/fastjson-1.2.9.jar')
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    testImplementation 'junit:junit:4.12'
+    implementation files('libs/fastjson-1.2.9.jar')
     //    compile 'com.github.lsjwzh.RecyclerViewPager:lib:v1.1.0'
     //    compile 'com.sothree.slidinguppanel:library:3.3.0'
     //    compile 'com.github.CymChad:BaseRecyclerViewAdapterHelper:v1.8.5'
     //    compile 'com.timehop.stickyheadersrecyclerview:library:0.4.3@aar'
-    compile project(':library')
-    compile project(':sticky-head-library')
-    compile project(':lib')
-    compile 'com.android.support:appcompat-v7:27.0.0'
-    compile 'com.android.support:recyclerview-v7:27.0.0'
-    compile 'com.android.support:support-v4:27.0.0'
+    implementation project(':library')
+    implementation project(':sticky-head-library')
+    implementation project(':lib')
+    implementation 'com.android.support:appcompat-v7:27.0.0'
+    implementation 'com.android.support:recyclerview-v7:27.0.0'
+    implementation 'com.android.support:support-v4:27.0.0'
 }
