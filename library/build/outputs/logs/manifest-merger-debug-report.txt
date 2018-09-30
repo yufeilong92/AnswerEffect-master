@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml
+		INJECTED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:7:5-8:37
+	android:minSdkVersion
+		ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:8:9-34
+application
+ADDED from E:\StudyProject\AnswerEffect-master\library\src\main\AndroidManifest.xml:10:5-20
